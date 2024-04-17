@@ -1,4 +1,4 @@
-# Deep-Learning-Models-on-Credit-Card-Fraud-detection
+# Premise of the Paper Deep-Learning-Models-on-Credit-Card-Fraud-detection
 
 Since credit card fraud is a serious danger to both
 consumers and financial institutions, reliable and effective fraud
